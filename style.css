@@ -1,0 +1,15 @@
+.twoTimesButton {
+    color: gray;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: transparent;
+    border: none;
+}
+
+.twoTimesButtonClicada {
+    color: rgb(68, 143, 96);
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: transparent;
+    border: none;
+}
